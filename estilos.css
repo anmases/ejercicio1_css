@@ -1,0 +1,29 @@
+body{
+    background-color: #CFC;
+}
+h1{
+    color: #F00;
+    size: 32px;
+    font: Verdana, Calibri, Sans-Serif;
+}
+p, ul{
+    color: #00F;
+    size: 16px;
+    font: Georgia, Cambria, Serif
+}
+h2{
+    color: #A00;
+    size: 24px;
+    font: Verdana, Calibri, Sans-Serif;
+}
+.campo{
+    color: #060;
+}
+strong{
+    size: 20px;
+}
+em{
+    color: #FFF;
+    background-color: #000;
+    font-style: italic;
+}
